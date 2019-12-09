@@ -1,0 +1,54 @@
+.container-fluid{
+    width: 100%;
+    /*border: 2px solid red;*/
+    height: 550px;
+    background-image: url(./img/img-bg.jpg);
+    background-size: cover;
+    position: relative;
+/*.container .row{
+    border:2px solid red;
+}
+.container {
+    border:2px solid yellow;
+}*/
+}
+ .row .cardInfo{
+    position: relative;
+    /* border:2px solid lightsalmon; */
+    top: -40px;
+    border-color: transparent;
+}
+
+/* .cardInfo {
+    border:2px solid yellowgreen;
+    position: relative;
+    top: -55px;
+    border-color: transparent;
+    background-color: aqua;
+} */
+.infobasica{
+    border:2px solid yellowgreen;
+    position: relative;
+    top: -55px;
+    border-color: transparent;
+    background-color: aqua;
+}
+
+p{
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.62em;
+    color:#2c2c2c;
+}
+.progress .progress-bar{
+    background-color: cadetblue; 
+}
+
+.contenedorfoto .foto img{
+    border-radius: 50%;
+}
+.navbar   {
+      display: flex;
+    justify-content: flex-end;
+
+}
