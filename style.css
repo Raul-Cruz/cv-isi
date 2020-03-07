@@ -5,7 +5,7 @@
     background-image: url(./img/img-bg.jpg);
     background-size: cover;
     position: relative;
-/*.container .row{
+/* .container .row{
     border:2px solid red;
 }
 .container {
@@ -19,19 +19,19 @@
     border-color: transparent;
 }
 
-/* .cardInfo {
-    border:2px solid yellowgreen;
+.cardInfo {
+    /* border:2px solid yellowgreen; */
     position: relative;
     top: -55px;
     border-color: transparent;
-    background-color: aqua;
-} */
+    /* background-color: aqua; */
+}
 .infobasica{
-    border:2px solid yellowgreen;
+    /* border:2px solid yellowgreen; */
     position: relative;
-    top: -55px;
+    top: -5px;
     border-color: transparent;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 p{
@@ -51,4 +51,8 @@ p{
       display: flex;
     justify-content: flex-end;
 
+}
+
+.title {
+    text-align: center;
 }
